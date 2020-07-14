@@ -111,7 +111,7 @@ CSS를 사용해서 HTML문서를 스타일링하는 3가지 방법이 있다.
 
 두 번째로는 Inline style 이다  한 줄(라인)으로 요소 내부에 스타일 속성을 이용하여 CSS 코드를 작성하는 것을 인라인 스타일 이라고 부른다.(이 방식은 유지보수가 힘들어 지기 때문에 대도록 사용하지 말아야 한다.)
 
-마지막으로 세 번째로는 external Style
+마지막으로 세 번째로는 external Style이다 가장 권장되고 일반적인 방법으로 css파일을 별도로 관리 하는 형태입니다.
 
 ### CSS 기술 문서에 대한 진행별 상태 코드
 FPWD(First Public Working Draft) 첫번째 공식 초안 단계 -> WD(Working Draft) 권고되는 표준 후보 스펙 -> CR(Candidate Recommendation) 권고되는 표준 후보 스펙 -> PR(Proposed Recommendation) 표준에 제안된 상태 -> REC(Recommendation) 표준으로 체택된 상태 -> SPSD(Superseded Recommendation) -> 표준이 업데이트되면서 대체된 권고안(표준안)
