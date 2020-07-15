@@ -41,7 +41,7 @@ border는 테두리 영역이며, 테두리 두께를 가진다.
   
 }```
 
-![ex_screenshot]./img/boxmodel.png
+![ex_screenshot]: ./img/boxmodel.png "boxmodel"
 
 width와 height 속성은 컨텐츠 영역을 대상으로 한다.
 box-sizing: content-box 가 기본 값이기 때문이다.(참고로 상속되지 않는 속성이다)
