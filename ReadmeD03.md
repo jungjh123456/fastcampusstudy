@@ -17,7 +17,7 @@ margin은 border 바깥쪽에 위치하는 영역이다.
 border는 테두리 영역이며, 테두리 두께를 가진다.
 
 
-![ex_screenshot]: (./img/boxmodel.png) "boxmodel"
+![ex_screenshot](./img/boxmodel.png) "boxmodel"
 
 ```<div class="wrap">
 
