@@ -53,7 +53,7 @@ HTML5가 탄생하기 이전까지 HTML의 최초 버전은 1993년에 최신 �
  - HTML5의 카테고리에는 Sectioning Root, Metadata Content, Flow Content, Sectioning Content, Heading Content, Phrasing Content, Embedded Content, Interactive Content, Palpable Content, Script-supporting Elements, Transparent Content 등의 그룹이 있으며 하나의 요소가 여러 그룹에 속해 있을 수도 있고, 그렇지 않을 수도 있다. 
 
 ## outline 알고리즘
-HTML5 outline 알고리즘은 간결하게 추려 낸 주요 내용을 의미한다. HTML5 마크업이 문서의 개요를 사용자에게 전달하기 위해 어떤 방법을 사용하는지 이햏ㅁ으로써 낡은 브라우저와 최신 브라우저 그리고 화면 낭독기에 적절하게 대응 할 수 있다.
+HTML5 outline 알고리즘은 간결하게 추려 낸 주요 내용을 의미한다. HTML5 마크업이 문서의 개요를 사용자에게 전달하기 위해 어떤 방법을 사용하는지 이해 함으로써 낡은 브라우저와 최신 브라우저 그리고 화면 낭독기에 적절하게 대응 할 수 있다.
 
 해당 알고리즘을 이해하기 위한 키워드는 헤딩, 섹셔닝 루트, 섹셔닝 콘텐츠, 명시적/암시적 세션, 유효하지 않은 섹셔닝, 어색한 섹셔닝을 알면 이해할 수 있는데 
 결론은 유연한 개요를 형성하려면 헤딩과 함께 섹셔닝 콘텐츠(section,article,nav등)을 쓰고 문서의 구조를 명확하게 하기 위해 최상위 수준의 헤딩은 하나만 쓰자.
