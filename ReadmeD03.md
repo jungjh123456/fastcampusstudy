@@ -19,15 +19,17 @@ border는 테두리 영역이며, 테두리 두께를 가진다.
 
 ![ex_screenshot](./img/boxmodel.png)
 
-```<div class="wrap">
+```
+<div class="wrap">
 
   <div id="div-box">
 
     저는 contents 입니다.
 
   </div>
-
 </div>
+```
+```
 .wrap {
   background-color : skyblue;
 }
