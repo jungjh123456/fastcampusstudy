@@ -52,7 +52,7 @@ width와 height 속성은 컨텐츠 영역을 대상으로 한다.
 box-sizing: content-box 가 기본 값이기 때문이다.(참고로 상속되지 않는 속성이다)
 
 
-![ex_screenshot](./img/boxconsole.png)
+![ex_screenshot](./img/boxconsole.png);
 
 콘솔에서 보면 content-box로 되어 있다.
 
@@ -87,9 +87,9 @@ flex는 flex-direction의 값에 따라 flex-start flex-end의 값이 달라지�
 column일 때 에는 align-items:center 이다.
 
 
-![ex_screenshot](./img/row.png)
+![ex_screenshot](./img/row.png);
 
-![ex_screenshot](./img/column.png)
+![ex_screenshot](./img/column.png);
 
 위와 같이 column일때와 row일때 reverse일때도 고려해야 한다.
 
