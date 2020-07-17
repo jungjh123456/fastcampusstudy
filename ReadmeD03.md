@@ -9,7 +9,7 @@
 
 ## Box Model
 
-모든 HTML dythsms box 형태의 영역을 가지고 있다.
+모든 HTML 요소는 box 형태의 영역을 가지고 있다.
 Box는 content, padding, border, margin 으로 구성이 된다.
 width,height 속성을 가지는게 content 영역이다.
 padding은 border 안쪽에 위치하는 영역이다.
